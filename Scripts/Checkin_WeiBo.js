@@ -12,7 +12,6 @@ var accounts = [
      ["妖风小姐姐", "100808a6e87c33b58f56d859a85953536aad4c"],
      ["许嵩", "100808eef38c55b37f389147e1baf6e48fb794"],
      ["IU", "100808d4151ccebfbae55e8f7c0f68f6d18e4d"],
-     ["皮卡晨", "10080829b997bacaacd1a28980a519a98b0d3b"],
      ["林更新",
 "100808dfb7713cbd19312b0c5f780b89e0287f"],
      ["Apple",
