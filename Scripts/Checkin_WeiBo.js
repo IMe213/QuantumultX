@@ -32,6 +32,8 @@ var accounts = [
 "100808aac4a2fe69b7e919feb8f76c5bb257a8"],
      ["张子枫",
 "1008082ed017ac8be430a8c9ee52d74943a451"],
+     ["靳海音弦乐团",
+"1008082ad6c2a0100c8e6dad39ee1070de1951"],
 
 ]
 function launch() {
